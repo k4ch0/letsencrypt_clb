@@ -1,1 +1,3 @@
-# letsencrypt_clb
+# Let's Encrypt + Rackspace CLB
+
+
